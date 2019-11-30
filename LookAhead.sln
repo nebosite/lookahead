@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LookAhead", "LookAhead.csproj", "{33CD18D4-6432-411D-8426-A4FC9B69790C}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{30D1EE15-F904-42FE-BD72-65CA1503E92E}"
+	ProjectSection(SolutionItems) = preProject
+		StyleSheet1.css = StyleSheet1.css
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{33CD18D4-6432-411D-8426-A4FC9B69790C}.Debug|x86.ActiveCfg = Debug|x86
+		{33CD18D4-6432-411D-8426-A4FC9B69790C}.Debug|x86.Build.0 = Debug|x86
+		{33CD18D4-6432-411D-8426-A4FC9B69790C}.Release|x86.ActiveCfg = Release|x86
+		{33CD18D4-6432-411D-8426-A4FC9B69790C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
